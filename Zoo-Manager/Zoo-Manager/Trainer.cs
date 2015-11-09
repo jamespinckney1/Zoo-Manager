@@ -8,7 +8,7 @@ namespace Zoo_Manager
 {
     class Trainer
     {
-        private int trainerID
+        private int trainerID;
         private string name;
 
         public int TrainerID {
